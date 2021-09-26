@@ -1,7 +1,7 @@
 ## O projeto : Calculadora IMC:
 <br>
 
-# Consultar se o IMC esta adequado.<br>O IMC é reconhecido como padrão internacional para avaliar o grau de sobrepeso e obesidade. É calculado dividindo o peso (em kg) pela altura ao quadrado (em metros).
+Consultar se o IMC esta adequado.<br>O IMC é reconhecido como padrão internacional para avaliar o grau de sobrepeso e obesidade. É calculado dividindo o peso (em kg) pela altura ao quadrado (em metros).
 
 <br>
 
