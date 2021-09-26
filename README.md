@@ -8,12 +8,12 @@
 ## 🛠️ INTERFACE DO PROJETO
 
 
-Aplicação simples para TREINAR CONCEITOS BÁSICOS DE VANILLA JS.
+Aplicação simples para explorar conceito de CSS, HTML e VANILLA JS.
 
 ## :fire: Prévia da Aplicação
 <br>
 
 <div align="center">
-    <img src="https://github.com/Zacouteguy/Projeto-Sistema-de-Checkout-Completo-com-Painel-de-Retaguarda/blob/main/screenchots/tela.PNG" width="400px"</img> 
+    <img src="https://github.com/Zacouteguy/Calculadora-IMC/blob/main/calc.JPG" width="400px"</img> 
  
 </div>
